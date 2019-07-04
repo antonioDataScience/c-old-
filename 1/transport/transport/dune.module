@@ -1,0 +1,10 @@
+################################
+# Dune module information file #
+################################
+
+#Name of the module
+Module: transport
+Version: 1.0
+Maintainer: antonio7.t@gmail.com
+#depending on
+Depends: dune-common dune-geometry dune-grid dune-localfunctions dune-istl dune-alugrid

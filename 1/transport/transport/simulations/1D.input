@@ -1,0 +1,14 @@
+# Broj elemenata
+N = 50
+# Lijevi rub domene
+L = 0.0
+# Desni rub domene
+R = 10.0
+# Krajnje vrijeme simulacije
+T = 1.0
+# vremenski korak
+dt = 0.01
+# brzina
+vel = -2.0
+# konstanta uz U (coeff_a)
+coeff_a = 1.0
